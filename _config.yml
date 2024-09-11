@@ -23,7 +23,7 @@ email: andy@padi.io
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation on how to set up, configure, and use an Interoperable Building
   Boxes.
-baseurl: "/documentation" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyll
 github_username:  IBBProject
